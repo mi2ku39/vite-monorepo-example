@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "resolutions": {
-    "example-lib": "workspace:*"
+    "lib-styled-react": "workspace:*"
   }
 }
